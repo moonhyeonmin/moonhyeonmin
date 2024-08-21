@@ -20,9 +20,7 @@
 
 <br/>
 
-<details>
-<summary>Activity</summary>
-<div markdown="1">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuunminn)](https://github.com/hyuunminn/github-readme-stats)
 
 
 
