@@ -4,7 +4,7 @@
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
-  <a href="https://ansgusals0627.tistory.com/"><img src="tistory"/></a> <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://seondal.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+  <a href="https://ansgusals0627.tistory.com/"><img src="https://img.shields.io/badge/hyuunminn-E5511E?style=flat-square&logo=tistory&logoColor=orange"/></a> <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://seondal.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/Projects-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
   ---
 
 </div>
