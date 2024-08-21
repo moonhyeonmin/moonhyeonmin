@@ -9,7 +9,7 @@
 
 </div>
 
-<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<a href="https://solved.ac/mhm0627"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhm0627&theme=dark"/></a>
 
 - 🍔 [FoodMate](링크) - 기획 및 개발 <sub>(2023.09 ~ 23.12)</sub>
 - 
