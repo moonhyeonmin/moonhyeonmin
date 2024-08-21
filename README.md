@@ -2,7 +2,6 @@
   
   ### hyuunminn
   
-  <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
 <a href="https://ansgusals0627.tistory.com"><img src="https://img.shields.io/badge/개발 블로그-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://www.notion.so/Mun-s-ee4c90ed78374f268d25a37a1f538c93?pvs=4"><img src="https://img.shields.io/badge/Mun's-000000?style=badge&logo=notion&logoColor=white"/></a> 
   ---
