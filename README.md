@@ -24,5 +24,6 @@
 
 ## Tools
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/ts-node-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
 </div>
 </details>
