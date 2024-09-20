@@ -10,9 +10,9 @@
 
 <a href="https://solved.ac/mhm0627"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhm0627&theme=dark"/></a>
 
-- 🍔 [FoodMate](링크) - 기획 및 개발 <sub>(2023.09 ~ 23.12)</sub>
-- 
-- 
+- 💻 [소융 해커톤](링크) - 세종대학교 소프트웨어융합대학 해커톤 AI 파트 개발 <sub>(23.05.18 ~ 23.05.19)</sub>
+- 🍔 [FoodMate](링크) - 기획 및 AI 파트 개발 <sub>(24.03 ~ 24.06)</sub>
+- 🪅 [바로바로](링크) - 기획 및 백엔드 파트 개발 <sub>(24.09 ~ 24.12)</sub>
 - 
 - 
 - 
