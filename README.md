@@ -3,8 +3,8 @@
 ## 👋 Hyun Min 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonhyeonmin&show_icons=true&theme=dracula)
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhyeonmin"/>
-<!--<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunYoungKr&layout=compact&theme=dracula"/>-->
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhm0627"/>
+<!--<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=moonhyeonmin&layout=compact&theme=dracula"/>-->
 
 </div>
 
