@@ -2,8 +2,10 @@
 
 ## 👋 Hyun Min 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonhyeonmin&show_icons=true&theme=dracula)
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhm0627"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=moonhyeonmin&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhm0627" alt="BOJ Stats" />
+</div>>
 
 
 ## 😎 About Me 😎
