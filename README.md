@@ -11,7 +11,7 @@
 ## 😎 About Me 😎
 <a href="https://ansgusals0627.tistory.com"><img src="https://img.shields.io/badge/Blog-E5511E?style=badge&logo=Tistory&logoColor=white"/><a href="https://www.notion.so/Mun-s-ee4c90ed78374f268d25a37a1f538c93?pvs=4"><img src="https://img.shields.io/badge/Profile-000000?style=badge&logo=notion&logoColor=white"/></a></a>
 
- ### 🛠 SKILL 🛠
+<!-- ### 🛠 SKILL 🛠
   <div>
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mongoose-F04D35?style=flat-square&logo=mongoose&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  </div>
+  </div> -->
 <br/>
 <br/>
 
