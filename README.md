@@ -25,9 +25,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mongoose-F04D35?style=flat-square&logo=mongoose&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  </div> -->
+  </div>
 <br/>
-<br/>
+<br/> -->
 
 
 ### 🎓 세종대학교 컴퓨터공학과 재학 (2020.03 ~ )
