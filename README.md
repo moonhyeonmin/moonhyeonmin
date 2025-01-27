@@ -11,23 +11,6 @@
 ## 😎 About Me 😎
 <a href="https://ansgusals0627.tistory.com"><img src="https://img.shields.io/badge/Blog-E5511E?style=badge&logo=Tistory&logoColor=white"/><a href="https://www.notion.so/Mun-s-ee4c90ed78374f268d25a37a1f538c93?pvs=4"><img src="https://img.shields.io/badge/Profile-000000?style=badge&logo=notion&logoColor=white"/></a></a>
 
-<!-- ### 🛠 SKILL 🛠
-  <div>
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mongoose-F04D35?style=flat-square&logo=mongoose&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  </div>
-<br/>
-<br/> -->
 
 
 ### 🎓 세종대학교 컴퓨터공학과 재학 (2020.03 ~ )
@@ -41,4 +24,21 @@
 - 🔥 [카카오테크 부트캠프] - 카카오테크 부트캠프 판교 클라우드 2기 sub>(25.01 ~ 25.08)</sub>
 
 
+### 🛠 SKILL 🛠
+  <div align=center>
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-sqaure&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+    
+    
+  </div>
+<br/>
+<br/>
 </div>
