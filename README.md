@@ -24,7 +24,7 @@
 - 🔥 [카카오테크 부트캠프] - 카카오테크 부트캠프 판교 클라우드 2기 <sub>(25.01 ~ 25.08)</sub>
 
 
-### 🛠 SKILL 🛠
+## 🛠 SKILL 🛠
   <div align=center>
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
