@@ -8,9 +8,9 @@
 </div>
 
 
-## 😎 About Me 😎
+<!-- ## 😎 About Me 😎
 <a href="https://ansgusals0627.tistory.com"><img src="https://img.shields.io/badge/Blog-E5511E?style=badge&logo=Tistory&logoColor=white"/><a href="https://www.notion.so/Mun-s-ee4c90ed78374f268d25a37a1f538c93?pvs=4"><img src="https://img.shields.io/badge/Profile-000000?style=badge&logo=notion&logoColor=white"/></a></a>
-
+-->
 
 
 ### 🎓 세종대학교 컴퓨터공학과 재학 (2020.03 ~ )
