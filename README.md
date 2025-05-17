@@ -30,6 +30,7 @@
 
  - 💬 OPIC - Intermediate High
  - 👨🏻‍💻 Engineer Information Processing
+ - 🪪 AWS Certified Solutions Architect - Associate (AWS SAA)
 
 
 ## 🛠 SKILL 🛠
