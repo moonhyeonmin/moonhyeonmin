@@ -21,7 +21,6 @@
 
  ## 🏆 Career
 
-- 💻 [소융 해커톤] - 세종대학교 소프트웨어융합대학 해커톤 AI 파트 개발 <sub>(23.05.18 ~ 23.05.19)</sub>
 - 🍔 [FoodMate] - 기획 및 AI 파트 개발 <sub>(24.03 ~ 24.06)</sub>
 - 🪅 [바로바로] - 기획 및 백엔드 파트 개발 <sub>(24.09 ~ 24.12)</sub>
 
@@ -34,17 +33,13 @@
 
 
 ## 🛠 SKILL 🛠
-  <div align=center>
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-sqaure&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://skillicons.dev/icons?i=spring,linux&theme=dark" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=gcp&theme=light" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
     
     
   </div>
