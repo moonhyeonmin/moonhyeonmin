@@ -1,6 +1,6 @@
 <div align:"center">
 
-## 👋 Hyun Min 👋
+## 👋 Hyeon Min 👋
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=moonhyeonmin&show_icons=true&theme=dracula" alt="GitHub Stats" />
