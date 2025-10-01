@@ -19,12 +19,13 @@
 - 세종대학교 제36대 컴퓨터공학과 학생회장 (2024.01 ~ 2024.12)
 - 카카오테크 부트캠프 판교 클라우드 2기 (2025.01 ~ 2025.08)
 - Cloud Club 8기 (2025.09 ~ 2025.12)
-- 2025 OSCCA (2025.09 ~ 2025.11)
+- 2025 OSCCA (오픈소스 컨트리뷰션 아카데미) (2025.09 ~ 2025.11)
 
 
  ## 🏆 Project
 
 - [마롱] - 기획 및 클라우드 <sub>(25.04 ~ 25.08)</sub>
+- [CCCloudPlatform] - 백엔드 개발 <sub>(25.09 ~ 25.11)</sub>
 
 
  ## 🪪 Certificate
@@ -41,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=gcp,terraform&theme=dark" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
     
     
   </div>
