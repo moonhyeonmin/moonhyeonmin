@@ -25,7 +25,8 @@
  ## 🏆 Project
 
 - [마롱] - 기획 및 클라우드 <sub>(25.04 ~ 25.08)</sub>
-- [CCCloudPlatform] - 백엔드 개발 <sub>(25.09 ~ 25.11)</sub>
+- [CCCloudPlatform] - 백엔드 개발 <sub>(25.09 ~ )</sub>
+- [Build-Up] - 백엔드 및 클라우드 <sub>(25.09 ~ )</sub>
 
 
  ## 🪪 Certificate
